@@ -1,4 +1,3 @@
-
 import '../../../src/App.css'
 
 function Greetings({ lang, children}){

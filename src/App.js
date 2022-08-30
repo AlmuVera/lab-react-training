@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 import IdCard from './components/id-card/IdCard';
@@ -35,7 +35,6 @@ function App() {
         </div>
         <br />
 
-        
       </div>
     </div>
   );
